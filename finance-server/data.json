@@ -1,0 +1,66 @@
+[
+  {
+    "description": "Nepa bills",
+    "amount": 500,
+    "date": "2026-04-23",
+    "type": "expense",
+    "categoryId": "other",
+    "id": "86f92f59-a3c5-4a8c-bc75-d1bfacec2b5c"
+  },
+  {
+    "description": "fuel",
+    "amount": 1000,
+    "date": "2026-04-23",
+    "type": "expense",
+    "categoryId": "transport",
+    "id": "52a42865-74a5-43b6-ac50-fffab9c25173"
+  },
+  {
+    "description": "shares",
+    "amount": 20000,
+    "date": "2026-04-23",
+    "type": "income",
+    "categoryId": "other",
+    "id": "e66e5ab4-7f07-41bf-944c-039ea83044ac"
+  },
+  {
+    "description": "Real estate",
+    "amount": 2000,
+    "date": "2026-04-23",
+    "type": "income",
+    "categoryId": "housing",
+    "id": "7cca6d6e-dc45-4026-95ac-46a5cb7205c9"
+  },
+  {
+    "description": "concert",
+    "amount": 100,
+    "date": "2026-04-23",
+    "type": "expense",
+    "categoryId": "entertainment",
+    "id": "b700c654-480c-456b-ae01-3d11371540a2"
+  },
+  {
+    "description": "Rent",
+    "amount": 200,
+    "date": "2026-04-23",
+    "type": "expense",
+    "categoryId": "housing",
+    "id": "558fb6c4-3fbe-4c71-a0fb-e6026fa072e0"
+  },
+  {
+    "description": "food",
+    "amount": 100,
+    "date": "2026-04-22",
+    "type": "expense",
+    "categoryId": "food",
+    "id": "1c407ec2-76a2-4318-be7e-d0bd3ee33e5b"
+  },
+  {
+    "description": "salary ",
+    "amount": 5000,
+    "date": "2026-04-22",
+    "type": "income",
+    "categoryId": "salary",
+    "id": "a65fa18b-0d68-49a0-a4dc-ace21d5aa20e"
+  }
+]

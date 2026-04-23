@@ -1,0 +1,58 @@
+.form {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  border: 1px solid #e2e8f0;
+  max-width: 500px;
+  margin-bottom: 2rem;
+}
+
+.form h3 { margin-top: 0; color: #0f172a; font-size: 1.1rem; }
+
+.typeSwitch {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 1.5rem;
+}
+
+.typeSwitch button {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #e2e8f0;
+  background: #f8fafc;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  transition: 0.2s;
+}
+
+.activeExpense { background: #fee2e2 !important; color: #ef4444; border-color: #fca5a5 !important; }
+.activeIncome { background: #dcfce7 !important; color: #10b981; border-color: #86efac !important; }
+
+.inputGroup { margin-bottom: 1rem; display: flex; flex-direction: column; }
+
+.row { display: flex; gap: 1rem; }
+.row > div { flex: 1; }
+
+.inputGroup input, .inputGroup select {
+  padding: 12px;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  font-size: 0.95rem;
+}
+
+.error { color: #ef4444; font-size: 0.75rem; margin-top: 4px; }
+
+.submitBtn {
+  width: 100%;
+  padding: 12px;
+  background: #0f172a;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 0.5rem;
+}
+
+.submitBtn:hover { background: #1e293b; }
