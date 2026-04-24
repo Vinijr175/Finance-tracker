@@ -36,7 +36,6 @@ Integrated **Recharts** to provide "Spending Patterns" as requested. I specifica
 - **UUID**: To ensure every transaction has a unique identifier for safe data manipulation.
 - **Express/CORS**: To build the backend API and handle cross-origin security.
 
-##  (Submission Note)
 
 ### My Approach
 I focused on building a "Frontend-First" architecture that communicates with a lightweight REST API. I prioritized data integrity and user experience by using TypeScript and "Optimistic UI" updates.
