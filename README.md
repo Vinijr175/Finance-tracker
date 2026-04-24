@@ -10,7 +10,7 @@ A full-stack solution for personal finance management, built with a focus on cle
 - **Backend (`/finance-server`)**: A lightweight Node.js/Express REST API.
   - `data.json`: Used for persistence to ensure user data survives browser refreshes.
 
-##  Design Choices & Engineering Judgment
+##  Design Choices 
 
 ### 1. State Management via Custom Hooks
 Instead of cluttering components with logic, I used a centralized `useTransactions` hook. This makes the code **reusable** and **testable**, satisfying the requirement for "Sound State Management."
